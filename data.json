@@ -1,0 +1,100 @@
+[
+    {
+        "title": "TDMUX_Nền tảng Toán 12 CTC [7-9 điểm]",
+        "type": "nested",
+        "subtopics": [
+            {
+                "title": "TDMUX01_Xử lý tham số trong đơn điệu",
+                "lectures": [
+                    {
+                        "title": "Bài 1: Xử lý tham số trong đơn điệu hàm đa thức",
+                        "url": "https://media.izteach.vn/3573c750-6cd7-11ea-9def-511e35850d83/682322620813c50002517610/720p.m3u8"
+                    },
+                    {
+                        "title": "Bài 2: Xử lý tham số trong đơn điệu hàm phân thức",
+                        "url": "https://media.izteach.vn/3573c750-6cd7-11ea-9def-511e35850d83/682322f40813c50002517612/720p.m3u8"
+                    }
+                ],
+                "exercises": [
+                    {
+                        "title": "TDMUX01",
+                        "url": "https://drive.google.com/file/d/1utLsa8K7cmtJ77aKbjtKtuym-Y5k-PcJ/view?usp=sharing"
+                    },
+                    {
+                        "title": "Key TDMUX01",
+                        "url": "https://drive.google.com/file/d/1qGc1hNVOnzlhOlSG2GFENsX2s9gCxYw_/view?fbclid=IwVERDUAS3F21leHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR6BcZgnv5adiqvxIrBXUYbVo0R9PPOCapvIONFFPQ1t4rEJC5pVz87nIM6bXw_aem_bEqSdCV7ESlFI74KScTzFA"
+                    }   
+                ],
+                "videos": []
+            },
+            {
+                "title": "TDMUX02_Đơn điệu hàm hợp & Ghép trục",
+                "lectures": [
+                    {
+                        "title": "Đơn điệu hàm hợp",
+                        "url": "https://media.izteach.vn/3573c750-6cd7-11ea-9def-511e35850d83/682454ee5082950002bec841/720p.m3u8"
+                    },
+                    {
+                        "title": "Ghép trục phiên bản TDM",
+                        "url": "https://media.izteach.vn/3573c750-6cd7-11ea-9def-511e35850d83/682457a20621a200025e0ca8/720p.m3u8"
+                    }   
+                ],
+                "exercises": [
+                    {
+                        "title": "TDMUX02",
+                        "url": "https://drive.google.com/file/d/1lZx8dgg4rL4U5UoT6HZFLGbP8xixVlG8/view?usp=sharing"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "title": "TDMUX03_Đơn điệu hàm hiệu",
+                "lectures": [
+                    {
+                        "title": "Đơn điệu hàm {f(x)-g(x)}",
+                        "url": "https://tdm-media.izteach.vn/664c635fce5de200093204ea/playlist_720.m3u8"
+                    }
+                ],
+                "exercises": [],
+                "videos": []
+            },
+            {
+                "title": "TDMUX04_Cực trị hàm hợp",
+                "lectures": [
+                    {
+                        "title": "Công thức đếm số điểm cực trị hàm hợp f(u)",
+                        "url": "https://tdm-media.izteach.vn/664c635fce5de200093204ea/playlist_720.m3u8"
+                    }
+                ],
+                "exercises": [],
+                "videos": []
+            }   
+        ]
+    },
+    {
+        "title": "TDMUC_Phát triển tư duy Toán",
+        "type": "direct",
+        "lectures": [
+            {
+                "title": "Những bài toán tư duy tinh hoa thương hiệu độc quyền TDM",
+                "url": "#"
+            }
+        ],
+        "exercises": [],
+        "videos": []
+    },
+    {
+        "title": "TDMUT_Các bài KSCL TSA",
+        "type": "direct",
+        "lectures": [],
+        "exercises": [],
+        "videos": []
+    },
+    {
+        "title": "TDMUT_Các bài KSCL ĐGNL",
+        "type": "direct",
+        "lectures": [],
+        "exercises": [],
+        "videos": []
+    }
+]
